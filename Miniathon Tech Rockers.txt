@@ -1,0 +1,9 @@
+Problem Title: Service Request or Assignment Submission Form with Free Webhooks for real time notifications.
+Step by Step Solutions:
+1. Created a webhook using Integromat online tool and customized the webhook based on the requirements.
+2. A Google Spreadsheet has been connected to the webhook created.
+3. Now using the Tally forms created a new template for the assignment submission form and created a form for the users to submit their assignment file.
+4. Using integrations option in Tally, connected this form with the webhook created by copying the URL of the webhook.
+5. Check whether it got integrated by running it in the search engine.
+6. After successful results, tested the form by submitting it. The credentials got stored in the tally id and google spreadsheet.
+7. Hence using it the staff can able to get and check the no. of users submitted the assignment and their submission data and time.
